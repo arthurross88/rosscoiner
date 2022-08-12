@@ -77,8 +77,6 @@ const badgeStyle = {
   lineHeight: 1,
 }
 
-const links = [
-]
 
 const IndexPage = () => {
   return (
